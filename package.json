@@ -18,7 +18,7 @@
     "apollo-server": "^2.14.2",
     "aws-sdk": "^2.610.0",
     "babel-eslint": "^10.0.3",
-    "bcrypt": "^3.0.7",
+    "bcrypt": "^5.0.0",
     "dotenv": "^8.2.0",
     "graphql": "^14.5.8",
     "graphql-scalars": "^1.0.6",
