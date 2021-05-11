@@ -24,7 +24,7 @@
     "graphql-scalars": "^1.0.6",
     "jsonwebtoken": "^8.5.1",
     "knex": "^0.20.8",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "lodash.merge": "^4.6.2",
     "mysql": "^2.18.1"
   },
